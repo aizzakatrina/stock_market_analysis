@@ -1,9 +1,3 @@
-' Aizza Asuncion
-' UCBSAN1010Data
-' Unit 2 homework
-' Dr.Spronck
-' 30 October 2017
-
 Sub calculateStockData()
     
   ' Declare and initialize variables
